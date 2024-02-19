@@ -548,7 +548,7 @@ section {
 
 
 /*--------------------------------------------------------------
-# Portfolio
+# Products
 --------------------------------------------------------------*/
 
 .portfolio .portfolio-item {
@@ -836,7 +836,7 @@ section {
     background: rgba(var(--default-color-rgb), 0.03);
 }
 
-.contact .php-email-form button[type=submit] {
+.contact .php-email-form button {
     background: var(--accent-color);
     color: var(--contrast-color);
     border: 0;
@@ -845,7 +845,7 @@ section {
     border-radius: 4px;
 }
 
-.contact .php-email-form button[type=submit]:hover {
+.contact .php-email-form button:hover {
     background: rgba(var(--accent-color-rgb), 0.8);
 }
 
