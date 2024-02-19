@@ -123,11 +123,6 @@
         }
 
     });
-
-
-
-
-
     /**
      * Skills animation
      */
